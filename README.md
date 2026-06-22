@@ -44,4 +44,6 @@ This project helped me gain practical experience in:
 
 The final dashboard provides a user-friendly way to analyze Netflix’s content trends and demonstrates the use of business intelligence tools for data-driven decision making.
 
-* OUTPUT  
+# OUTPUT
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/6d61b44a-c444-476c-b28e-181b3f12c238" />
